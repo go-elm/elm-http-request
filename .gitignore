@@ -1,0 +1,6 @@
+elm-stuff/
+vendor/
+build/
+elm-http-request
+.DS_Store
+
